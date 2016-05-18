@@ -1,0 +1,25 @@
+#your_gold{
+	width: 150px;
+}
+
+#log{
+	border: 1px solid blue;
+	overflow-y: scroll;
+	width: 400px;
+	max-height: 100px;
+}
+
+#your_gold{
+	border: 1px solid red;
+}
+
+.options{
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid green;
+	padding: 5px;
+}
+
+h1{
+	font-size: 20px;
+}
